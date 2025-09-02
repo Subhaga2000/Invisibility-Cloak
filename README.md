@@ -4,7 +4,7 @@ A fun mini-project that recreates the famous Harry Potter **Invisibility Cloak**
 
 ---
 
-## ✨ How it Works
+## How it Works
 1. **Capture the Background** – Records the background before you appear with the cloak.  
 2. **Color Detection** – Detects the cloak color (e.g., red) using the HSV color space.  
 3. **Mask Refinement** – Cleans up the detected region with morphological operations.  
@@ -13,7 +13,7 @@ A fun mini-project that recreates the famous Harry Potter **Invisibility Cloak**
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 - **Python** 🐍 – Core programming  
 - **OpenCV** 📹 – Real-time video processing  
 - **NumPy** 🔢 – Array operations  
@@ -21,7 +21,7 @@ A fun mini-project that recreates the famous Harry Potter **Invisibility Cloak**
 
 ---
 
-## 📦 Installation & Setup  
+## Installation & Setup  
 
 ### 1. Clone the Repository  
 
